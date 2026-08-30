@@ -1,0 +1,41 @@
+# Environment files
+.env
+.env.*
+*.env
+
+# Secrets
+secrets/
+credentials/
+*.key
+*.pem
+*.crt
+
+# Grafana
+grafana.db
+
+# Logs
+*.log
+logs/
+
+# Backups
+*.tar
+*.tar.gz
+*.zip
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
