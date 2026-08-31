@@ -1,0 +1,18 @@
+# Screenshots
+
+This directory contains screenshots demonstrating the monitoring platform.
+
+## Dashboard
+
+Grafana dashboard showing system and infrastructure metrics.
+
+## Prometheus
+
+Prometheus targets and monitoring status.
+
+## Network Monitoring
+
+SNMP-based monitoring of network interfaces and traffic.
+
+> All screenshots have been sanitized to remove private IP addresses,
+> hostnames, credentials, and other sensitive information.
