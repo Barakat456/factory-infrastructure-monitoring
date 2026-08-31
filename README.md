@@ -320,6 +320,6 @@ Possible future improvements include:
 
 **Mohamed Barakat**
 
-**Junior DevOps Engineer | Network Administrator**
+** DevOps Engineer ** 
 
 Focused on **DevOps, Infrastructure, Networking, Automation, Monitoring, and Cloud Technologies**.
