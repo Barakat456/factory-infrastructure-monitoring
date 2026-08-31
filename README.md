@@ -76,7 +76,7 @@ The dashboard provides visibility into:
 * System performance
 * Server availability
 
-![Linux Monitoring](screenshots/grafana-linux.png)
+![Linux Monitoring](screenshots/grafana-linux.jpg)
 
 ---
 
@@ -93,7 +93,7 @@ The monitoring system provides information about:
 * System performance
 * Windows server availability
 
-![Windows Monitoring](screenshots/grafana-windows.png)
+![Windows Monitoring](screenshots/grafana-windows.jpg)
 
 ---
 
@@ -110,7 +110,7 @@ The monitoring solution provides visibility into:
 * Network utilization
 * Device availability
 
-![Network Monitoring](screenshots/grafana-switch.png)
+![Network Monitoring](screenshots/grafana-switch.jpg)
 
 ---
 
@@ -125,7 +125,7 @@ Example monitored targets include:
 * Network devices
 * Prometheus itself
 
-![Prometheus](screenshots/prometheus.png)
+![Prometheus](screenshots/prometheus.jpg)
 
 ---
 
@@ -143,7 +143,7 @@ SNMP Exporter
 
 Example Docker environment:
 
-![Docker Containers](screenshots/docker-ps.png)
+![Docker Containers](screenshots/docker-ps.jpg)
 
 ---
 
