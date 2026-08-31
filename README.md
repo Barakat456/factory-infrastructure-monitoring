@@ -318,8 +318,10 @@ Possible future improvements include:
 
 ## 👨‍💻 Author
 
-**Mohamed Barakat**
+👨‍💻 Author
 
-** DevOps Engineer ** 
+Mohamed Barakat
 
-Focused on **DevOps, Infrastructure, Networking, Automation, Monitoring, and Cloud Technologies**.
+DevOps Engineer 
+ 
+Focused on DevOps, Infrastructure, Networking, Automation, Monitoring, and Cloud Technologies.
