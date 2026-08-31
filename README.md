@@ -16,7 +16,7 @@ The monitoring architecture consists of multiple data sources connected to a cen
 
 ### Monitoring Flow
 
-   text
+```text
 Linux Servers
      │
      ▼
@@ -42,7 +42,7 @@ Grafana
      │
      ▼
 Monitoring Dashboards
-
+```
 
 ---
 
