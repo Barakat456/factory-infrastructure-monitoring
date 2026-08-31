@@ -323,5 +323,3 @@ Possible future improvements include:
 Mohamed Barakat
 
 DevOps Engineer 
- 
-Focused on DevOps, Infrastructure, Networking, Automation, Monitoring, and Cloud Technologies.
