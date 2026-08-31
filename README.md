@@ -188,7 +188,7 @@ factory-infrastructure-monitoring/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/factory-infrastructure-monitoring.git
+git clone https://github.com/Barakat456/factory-infrastructure-monitoring.git
 ```
 
 ### 2. Enter the Project Directory
